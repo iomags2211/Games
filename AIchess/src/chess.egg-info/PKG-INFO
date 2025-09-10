@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: chess
+Version: 0.0.1
+Summary: Chess in pygame
+Author-email: iomags2211 <isaac.magee@hotmail.com>
+Project-URL: Homepage, https://github.com/iomags2211
+Project-URL: Issues, https://github.com/iomags2211
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Chess
+
+This is a chess game built in pygame.

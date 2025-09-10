@@ -1,0 +1,18 @@
+[project]
+name = "chess"
+version = "0.0.1"
+authors = [
+  { name="iomags2211", email="isaac.magee@hotmail.com" },
+]
+description = "Chess in pygame"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = {file = "LICENSE.md"}
+
+[project.urls]
+Homepage = "https://github.com/iomags2211"
+Issues = "https://github.com/iomags2211"

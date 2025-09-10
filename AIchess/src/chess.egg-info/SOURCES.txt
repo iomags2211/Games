@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/chess/ChessEngine.py
+src/chess/__init__.py
+src/chess.egg-info/PKG-INFO
+src/chess.egg-info/SOURCES.txt
+src/chess.egg-info/dependency_links.txt
+src/chess.egg-info/top_level.txt
